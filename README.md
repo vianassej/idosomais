@@ -57,7 +57,7 @@ Muitos idosos precisam de lembretes para medicamentos, atividades físicas e con
 | **Guilherme Gomes** | [@guilherme](https://github.com/) | Pesquisa, Ideação & Metodologia Ágil |
 | **Jéssica Viana** | [@jessicaviana](https://github.com/) | Liderança, Backlog & Arquitetura |
 
-> 📌 **Orientador:** Rafael Santos — Escola da Nuvem
+> 📌 **Orientadores:** Carlo Seixas (parte 1 do projeto) Rafael Santos (parte 2 do projeto) — Escola da Nuvem
 > 🎓 **Turma:** C8 | BRSAO-200 (Noite) | Dezembro de 2025
 
 ---
