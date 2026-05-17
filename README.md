@@ -49,15 +49,15 @@ Muitos idosos precisam de lembretes para medicamentos, atividades físicas e con
 
 ## 👥 Equipe — Equipe 7
 
-| Nome | GitHub | Contribuição Principal |
+| Nome | Perfil | Contribuição Principal |
 |---|---|---|
-| **Adalto Reis** | [@adalto](https://github.com/) | Infraestrutura AWS & Demo MVP |
-| **Elisangela Santos** | [@elisangela](https://github.com/) | Requisitos Funcionais & Documentação |
-| **Evandro Silva** | [@evanbms](https://github.com/evanbms) | 💻 Desenvolvimento Técnico do MVP |
-| **Guilherme Gomes** | [@guilherme](https://github.com/) | Pesquisa, Ideação & Metodologia Ágil |
-| **Jéssica Viana** | [@jessicaviana](https://github.com/) | Liderança, Backlog & Arquitetura |
+| **Adalto Reis** | [@adaltoreis](https://www.linkedin.com/in/adalto-reis/) | Infraestrutura AWS & Demo MVP |
+| **Elisangela Santos** | [@elisangela](https://www.linkedin.com/in/elisangela-cardoso-dos-santos-ab734837a/) | Requisitos & Documentação |
+| **Evandro Silva** | [@evanbms](https://github.com/evanbms) | 💻 Desenvolvimento Técnico do MVP e Arquitetura |
+| **Guilherme Gomes** | [@guilherme](https://www.linkedin.com/in/guilherme-goomes/) | Pesquisa, Inteligência Artificial & Metodologia Ágil |
+| **Jéssica Viana** | [@vianassej](https://www.linkedin.com/in/vianassej/) | Liderança, Backlog & Arquitetura |
 
-> 📌 **Orientadores:** Carlo Seixas (parte 1 do projeto) Rafael Santos (parte 2 do projeto) — Escola da Nuvem
+> 📌 **Orientadores:** [Carlo Seixas](https://www.linkedin.com/in/carloseixas/) e [Rafael Santos](https://www.linkedin.com/in/rafasantosbzr/) — Escola da Nuvem
 > 🎓 **Turma:** C8 | BRSAO-200 (Noite) | Dezembro de 2025
 
 ---
@@ -66,7 +66,7 @@ Muitos idosos precisam de lembretes para medicamentos, atividades físicas e con
 
 O MVP foi desenvolvido por **Evandro Silva** e está disponível em:
 
-🔗 **https://evanbms.github.io/idosoplus/**
+🔗 **https://gemini.google.com/share/217f57ed526d**
 
 Inclui registro de sinais vitais, lembretes de medicação, agendamento de consultas, diário de bem-estar e análise automatizada com IA.
 
@@ -151,6 +151,8 @@ Kanban com Trello, dividido em 3 sprints:
 | Sprint 2 | Requisitos, MVP e Evoluções Futuras | ✅ Concluído |
 | Sprint 3 | Testes, validação com usuários e entrega final | ✅ Concluído |
 
+<img width="1359" height="767" alt="image" src="https://github.com/user-attachments/assets/c48e7888-4c9a-417e-af8a-cbca8b88769f" />
+
 ---
 
 ## 🔭 Evoluções Futuras
@@ -175,7 +177,7 @@ Kanban com Trello, dividido em 3 sprints:
 
 ## 📜 Sobre
 
-Projeto desenvolvido para o programa **AWS re/Start + IA** da **Escola da Nuvem**
-Turma C8 | BRSAO-200 | Noite | 2025
+---
 
-**Equipe 7:** Adalto Reis · Elisangela Santos · Evandro Silva · Guilherme Gomes · Jéssica Viana
+© 2025 Equipe 7 — Idoso+. Todos os direitos reservados.
+Este projeto foi desenvolvido para fins acadêmicos no programa **AWS re/Start + IA** da **Escola da Nuvem**. Reprodução parcial ou total somente com autorização dos autores: Adalto Reis · Elisangela Santos · Evandro Silva · Guilherme Gomes · Jéssica Viana
