@@ -19,7 +19,7 @@ O **Idoso+** é um painel inteligente e acessível de monitoramento de saúde pa
 
 A plataforma combina **Computação em Nuvem com AWS**, **Inteligência Artificial generativa** e uma **interface acessível por voz e texto** para apoiar idosos, familiares e profissionais de saúde.
 
-O projeto nasce como resposta ao acelerado **envelhecimento populacional** no Brasil: em 2023, pela primeira vez, o número de brasileiros com 60+ anos superou a faixa de 15 a 24 anos. Até 2070, os idosos devem representar **37,8% da população**.
+O projeto nasce como resposta ao acelerado **envelhecimento populacional** no Brasil: em 2023, pela primeira vez, o número de brasileiros com 60+ anos superou a faixa de 15 a 24 anos — [dado do IBGE via G1](https://g1.globo.com/economia/censo/noticia/2024/08/22/idosos-populacao-jovens.ghtml). Até 2070, os idosos devem representar **37,8% da população**.
 
 ---
 
