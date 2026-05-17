@@ -9,7 +9,7 @@
 
 > *"A tecnologia a serviço de quem mais precisa de cuidado."*
 
-🌐 **[Acesse o MVP](https://evanbms.github.io/idosoplus/)** &nbsp;|&nbsp; 📋 **[Trello do Projeto](https://trello.com/b/zPIuGAgm/projeto-idoso-equipe-7)** &nbsp;|&nbsp; 🎥 **[Apresentação](https://prezi.com/view/yKLBHfKhx7AENuraxOeS/)**
+🌐 **[Acesse o MVP](https://evanbms.github.io/idosoplus/)** &nbsp;|&nbsp; 🎥 **[Apresentação](https://prezi.com/view/yKLBHfKhx7AENuraxOeS/)**
 
 ---
 
